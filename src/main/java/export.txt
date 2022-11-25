@@ -1,0 +1,15 @@
+Order 1 :
+Deluxe (Chicago Style-Deep Dish) sausage, pepperoni, greenPepper, onion, mushroom,  SMALL 14.99 
+BBQ Chicken (Chicago Style-Pan) bbqChicken, greenPepper, provolone, cheddar,  SMALL 13.99 
+Meatzza (Chicago Style-Stuffed) sausage, pepperoni, beef, ham,  SMALL 15.99 
+Build Your Own (Chicago Style-Pan) pepperoni,  SMALL 8.99 
+
+Order 2 :
+Build Your Own (New York Style-Hand Tossed) pepperoni, mushroom, bbqChicken, provolone, cheddar, beef, ham,  SMALL 8.99 
+BBQ Chicken (New York Style-Thin) bbqChicken, greenPepper, provolone, cheddar,  SMALL 13.99 
+Deluxe (New York Style-Brooklyn) sausage, pepperoni, greenPepper, onion, mushroom,  SMALL 14.99 
+Meatzza (New York Style-Hand Tossed) sausage, pepperoni, beef, ham,  SMALL 15.99 
+
+Order 3 :
+Deluxe (New York Style-Brooklyn) sausage, pepperoni, greenPepper, onion, mushroom,  MEDIUM 16.99 
+
